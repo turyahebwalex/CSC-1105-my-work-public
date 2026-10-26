@@ -1,0 +1,12 @@
+# Dataset: 149 MB, published at a stable DOI, never committed.
+# Download it from https://data.mendeley.com/datasets/zhj366m53p/2
+data/
+*.csv
+
+# Python environment
+.venv/
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
